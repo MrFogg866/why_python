@@ -7,8 +7,10 @@
 - large ecosystem of librarys, frames and tools
 - it is a multi purpose language with a simple, beginner freindly syntax 
 ## What are some of the different ways Python is used? (Machine Learning, programming, scripting, etc.) The limits are practically endless with this language!
+- for AI, machine learning, automation, web apps, mobile apps, software testing, hacking
 ## Who is using Python? What companies and for what projects, objectives, products?
 - Software engineers, Accountants, Scientists, Mathematicians, Data Analysts
+- Google, youtube (server API), Reddit, Blender3D, IBM and many many more 
 ## Why is Python in demand as a skill?
 ## What kind of salaries can you find for Python skilled professionals? (in all areas, not just devs)
 - $115k
